@@ -2,7 +2,6 @@ package models
 
 import (
 	"github.com/jinzhu/gorm"
-	"time"
 	u "webstuff/go-contacts/utils"
 )
 
